@@ -7,5 +7,5 @@
 
 import Foundation
 import SwiftUI
-
+let text2 = "ne text"
  let text = "Text"
